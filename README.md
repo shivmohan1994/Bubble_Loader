@@ -1,1 +1,1 @@
-Responsive and beautifull bubble loader using  just Html and css3.
+Responsive and beautiful bubble loader using  just Html and css3.
